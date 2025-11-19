@@ -74,31 +74,31 @@
             },
             {
                 "name": "邮箱联系(163网易)",
-                "icon": "./assets/siteIcons/163.png",
+                "icon": "https://mail.163.com/favicon.ico",
                 "url": "mailto:wentianplay@163.com",
                 "describe": "苏天彬(苏文飞)-163网易邮箱"
             },
             {
                 "name": "邮箱联系(foxmail)",
-                "icon": "./assets/siteIcons/foxmail.ico",
+                "icon": "https://www.foxmail.com/favicon.ico",
                 "url": "mailto:wentianplay@foxmail.com",
                 "describe": "苏天彬(苏文飞)-foxmail邮箱"
             },
             {
                 "name": "邮箱联系(Outlook)",
-                "icon": "./assets/siteIcons/outlook.ico",
+                "icon": "https://www.outlook.com/owa/favicon.ico",
                 "url": "mailto:wentianplay@outlook.com",
                 "describe": "苏天彬(苏文飞)-Outlook邮箱"
             },
             {
                 "name": "邮箱联系(Gmail)",
-                "icon": "./assets/siteIcons/mall-Gmail.png",
+                "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
                 "url": "mailto:wentianplay@Gmail.com",
                 "describe": "苏天彬(苏文飞)-Gmail邮箱"
             },
             {
                 "name": "KOOK-天彬",
-                "icon": "./assets/siteIcons/kook.png",
+                "icon": "https://m.kookapp.cn/favicon.ico",
                 "url": "https://www.kookapp.cn/app/invite/6GcFWj",
                 "describe": "KOOK里有各种主题的服务器，你也可以根据自己的喜好，创造..."
             },
