@@ -51,7 +51,7 @@
         "data": [
             {
                 "name": "《天彬TianBIN》官方网站",
-                "icon": "./assets/icon.ico",
+                "icon": "https://www.tianbin.net/icon.ico",
                 "url": "https://www.tianbin.net",
                 "describe": "《天彬TianBIN》官方网站"
             },
@@ -63,12 +63,12 @@
             }
         ]
     },
-    "官方媒体联系": {
+    "媒体联系": {
         "icon": "",
         "data": [
             {
                 "name": "邮箱联系(QQ)",
-                "icon": "./assets/siteIcons/mail_QQ.png",
+                "icon": "https://mail.qq.com/favicon.ico",
                 "url": "mailto:wentianplay@qq.com",
                 "describe": "苏天彬(苏文飞)-QQ邮箱"
             },
