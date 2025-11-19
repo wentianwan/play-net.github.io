@@ -140,13 +140,13 @@
             },
             {
                 "name": "Google",
-                "icon": "./assets/searchEngineIcons/google.svg",
+                "icon": "https://www.google.com/favicon.ico",
                 "url": "https://www.google.com/",
                 "describe": "全球最大的学习分享平台"
             },
             {
                 "name": "Github",
-                "icon": "./assets/searchEngineIcons/github.svg/",
+                "icon": "https://github.com/favicon.ico",
                 "url": "https://www.github.com/",
                 "describe": "基于web的版本控制和协作平台"
             },
