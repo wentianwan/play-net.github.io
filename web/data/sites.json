@@ -43,29 +43,24 @@
                 "icon": "./assets/icon.ico",
                 "url": "https://www.wentianplays.com",
                 "describe": "文天玩WenTianPlay边缘站-文天玩网络科技有限公司"
-            }
-        ]
-    },
-    "权威业务": {
-        "icon": "",
-        "data": [
+            },
             {
                 "name": "《天彬TianBIN》官方网站",
                 "icon": "https://www.tianbin.net/icon.ico",
                 "url": "https://www.tianbin.net",
                 "describe": "《天彬TianBIN》官方网站"
-            },
+            }
+        ]
+    },
+    "网媒导航": {
+        "icon": "",
+        "data": [
             {
                 "name": "店铺(平台代营)",
                 "icon": "./assets/icon.ico",
                 "url": "https://G.WenTianPlay.com/",
                 "describe": "文天玩WenTian Play店铺―—(平台代营)"
-            }
-        ]
-    },
-    "媒体联系": {
-        "icon": "",
-        "data": [
+            },
             {
                 "name": "邮箱联系(QQ)",
                 "icon": "https://mail.qq.com/favicon.ico",
@@ -104,61 +99,44 @@
             },
             {
                 "name": "Discord-天彬",
-                "icon": "./assets/siteIcons/Discord.png",
+                "icon": "https://discord.do/favicon.ico",
                 "url": "https://discord.gg/CwJqM27Nb7",
-                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"
+                "describe": "Discord 是一款通讯工具，可以帮助用户通过文本、语音和视频聊天与社区和朋友保持连接。"   
             }
         ]
     },
-    "网页导航": {
-        "icon": "",
-        "data": [
-            {
-                "name": "《天彬TianBIN》官方网站",
-                "icon": "./assets/icon.ico",
-                "url": "https://www.tianbin.net",
-                "describe": "《天彬TianBIN》官方网站"
-            },
-            {
-                "name": "店铺(平台代营)",
-                "icon": "./assets/icon.ico",
-                "url": "https://G.WenTianPlay.com/",
-                "describe": "文天玩WenTian Play店铺―—(平台代营)"
-            }
-        ]
-    },    
     "常用推荐": {
         "icon": "",
         "data": [
             {
                 "name": "哔哩哔哩",
-                "icon": "./assets/siteIcons/bilibili.png",
+                "icon": "https://www.bilibili.com/favicon.ico",
                 "url": "https://www.bilibili.com/",
                 "describe": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
             },
             {
+                "name": "YouTube",
+                "icon": "https://www.youtube.com/favicon.ico",
+                "url": "https://www.youtube.com/",
+                "describe": "Stay updated with the latest news and trends on …"
+            },
+            {
                 "name": "爱奇艺",
-                "icon": "./assets/siteIcons/iqiyi.png",
+                "icon": "https://www.iqiyi.com/favicon.ico",
                 "url": "https://www.iqiyi.com/",
                 "describe": "爱奇艺-在线视频网站-海量正版高清视频在线观看"
             },
             {
                 "name": "腾讯视频",
-                "icon": "./assets/siteIcons/v.png",
+                "icon": "https://v.qq.com/favicon.ico",
                 "url": "https://v.qq.com/",
                 "describe": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看"
             },
             {
                 "name": "优酷",
-                "icon": "./assets/siteIcons/youku.png",
+                "icon": "https://www.youku.com/favicon.ico",
                 "url": "https://www.youku.com/",
                 "describe": "优酷 - 为好内容全力以赴 - 海量正版高清视频在线观看"
-            },
-            {
-                "name": "芒果TV",
-                "icon": "./assets/siteIcons/mgtv.png",
-                "url": "https://www.mgtv.com/",
-                "describe": "芒果TV-天生青春"
             },
             {
                 "name": "Google",
@@ -174,9 +152,9 @@
             },
             {
                 "name": "聚名网",
-                "icon": "./assets/siteIcons/juming.png",
+                "icon": "https://ossjm.oss-accelerate.aliyuncs.com/pub/img/juming_ico.ico",
                 "url": "https://www.juming.com/",
-                "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"
+                "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"           
             }
         ]
     }
