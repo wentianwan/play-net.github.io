@@ -15,40 +15,40 @@
                 "describe": "文天玩WenTianPlay中国站-文天玩网络科技有限公司"
             },
             {
-                "name": "数据站",
+                "name": "数据官网",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.wentianplay.net",
                 "describe": "文天玩WenTianPlay数据站-文天玩网络科技有限公司"
                 },
             {
-                "name": "资讯站",
+                "name": "资讯官网",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.wentianplay.top",
                 "describe": "文天玩WenTianPlay资讯站(前身论坛站)-文天玩网络科技有限公司"
                 },
             {
-                "name": "品牌站",
+                "name": "品牌官网",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.wentianwan.com",
                 "describe": "文天玩WenTianPlay品牌站-文天玩网络科技有限公司"
                 },
             {
-                "name": "团队站",
+                "name": "团队官网",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.wentianwan.cn",
                 "describe": "文天玩WenTianPlay团队站-文天玩网络科技有限公司"
                 },
             {
-                "name": "边缘站",
+                "name": "边缘官网",
                 "icon": "./assets/icon.ico",
                 "url": "https://www.wentianplays.com",
                 "describe": "文天玩WenTianPlay边缘站-文天玩网络科技有限公司"
             },
             {
-                "name": "《天彬TianBIN》官方网站",
+                "name": "《天彬》官方网站",
                 "icon": "https://www.tianbin.net/icon.ico",
                 "url": "https://www.tianbin.net",
-                "describe": "《天彬TianBIN》官方网站"
+                "describe": "《天彬TianBIN》"
             }
         ]
     },
@@ -139,6 +139,12 @@
                 "describe": "优酷 - 为好内容全力以赴 - 海量正版高清视频在线观看"
             },
             {
+                "name": "聚名网",
+                "icon": "https://ossjm.oss-accelerate.aliyuncs.com/pub/img/juming_ico.ico",
+                "url": "https://www.juming.com/",
+                "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"
+            },
+            {
                 "name": "Google",
                 "icon": "https://www.google.com/favicon.ico",
                 "url": "https://www.google.com/",
@@ -148,13 +154,7 @@
                 "name": "Github",
                 "icon": "https://github.com/favicon.ico",
                 "url": "https://www.github.com/",
-                "describe": "基于web的版本控制和协作平台"
-            },
-            {
-                "name": "聚名网",
-                "icon": "https://ossjm.oss-accelerate.aliyuncs.com/pub/img/juming_ico.ico",
-                "url": "https://www.juming.com/",
-                "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"           
+                "describe": "基于web的版本控制和协作平台"           
             }
         ]
     }
