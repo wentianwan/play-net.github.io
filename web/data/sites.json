@@ -157,23 +157,23 @@
                 "describe": "基于web的版本控制和协作平台"           
             },
             {
-                "name": "CSDN",
-                "icon": "https://www.csdn.net/favicon.ico",
-                "url": "https://www.csdn.net/",
-                "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."           
-            },
-            {
                 "name": "Gitee",
                 "icon": "https://gitee.com/favicon.ico",
                 "url": "https://gitee.com/",
                 "describe": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。"
             },
             {
+                "name": "VS Code",
+                "icon": "https://code.visualstudio.com/favicon.ico",
+                "url": "https://code.visualstudio.com/",
+                "describe": "Visual Studio Code免费且基于开源构建。集成Git、调试和扩展。"                              
+            },
+            {
                 "name": "Java",
                 "icon": "https://www.java.com/favicon.ico",
                 "url": "https://www.java.com/",
                 "describe": "Java Oracle Java 是第一大编程语言和开发平台。 它有助于企业降低成本、缩短开发周期、推动创新以及改善应用程序服务。 Java 现在仍是企业和开发人员的首选开发平台。"
-},
+            },
             {
                 "name": "标准 C++",
                 "icon": "https://isocpp.org/favicon.ico",
@@ -193,10 +193,10 @@
                 "describe": "专为 Web、数据和 AI/ML 专业人士打造。 通过 AI 增强的 IDE 体验进行超级加速。" 
             },
             {
-                "name": "VS Code",
-                "icon": "https://code.visualstudio.com/favicon.ico",
-                "url": "https://code.visualstudio.com/",
-                "describe": "Visual Studio Code免费且基于开源构建。集成Git、调试和扩展。"                              
+                "name": "CSDN",
+                "icon": "https://www.csdn.net/favicon.ico",
+                "url": "https://www.csdn.net/",
+                "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."                              
             }
         ]
     }
