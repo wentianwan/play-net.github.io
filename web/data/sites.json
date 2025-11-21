@@ -155,6 +155,18 @@
                 "icon": "https://github.com/favicon.ico",
                 "url": "https://www.github.com/",
                 "describe": "基于web的版本控制和协作平台"           
+            },
+            {
+                "name": "CSDN",
+                "icon": "https://www.csdn.net/favicon.ico",
+                "url": "https://www.csdn.net/",
+                "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."           
+            },
+            {
+                "name": "Gitee",
+                "icon": "https://gitee.com/favicon.ico",
+                "url": "https://gitee.com/",
+                "describe": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。"           
             }
         ]
     }
