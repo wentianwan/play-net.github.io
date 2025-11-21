@@ -173,11 +173,17 @@
                 "icon": "https://www.java.com/favicon.ico",
                 "url": "https://www.java.com/",
                 "describe": "Java Oracle Java 是第一大编程语言和开发平台。 它有助于企业降低成本、缩短开发周期、推动创新以及改善应用程序服务。 Java 现在仍是企业和开发人员的首选开发平台。"
+},
+            {
+                "name": "标准 C++",
+                "icon": "https://isocpp.org/favicon.ico",
+                "url": "https://isocpp.org/",
+                "describe": "关于标准C++的新闻、状态与讨论 关注所有帖子 所有帖子 RSS 标准C++在网络上的家园——新闻、状态与讨论......"       
             },
             {
                 "name": "Python",
-                "icon": "https://Python.com/favicon.ico",
-                "url": "https://www.python.com/",
+                "icon": "https://Python.org/favicon.ico",
+                "url": "https://www.python.org/",
                 "describe": "Python 是一种功能强大且易于学习的语言，可帮助您快速工作并更有效地集成系统。下载最新版本，阅读……"           
             }
         ]
