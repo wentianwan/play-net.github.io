@@ -184,7 +184,19 @@
                 "name": "Python",
                 "icon": "https://Python.org/favicon.ico",
                 "url": "https://www.python.org/",
-                "describe": "Python 是一种功能强大且易于学习的语言，可帮助您快速工作并更有效地集成系统。下载最新版本，阅读……"           
+                "describe": "Python 是一种功能强大且易于学习的语言，可帮助您快速工作并更有效地集成系统。下载最新版本，阅读……"  
+            },
+            {
+                "name": "PyCharm",
+                "icon": "https://www.jetbrains.com/favicon.ico",
+                "url": "https://www.jetbrains.com/",
+                "describe": "专为 Web、数据和 AI/ML 专业人士打造。 通过 AI 增强的 IDE 体验进行超级加速。" 
+            },
+            {
+                "name": "VS Code",
+                "icon": "https://code.visualstudio.com/favicon.ico",
+                "url": "https://code.visualstudio.com/",
+                "describe": "Visual Studio Code免费且基于开源构建。集成Git、调试和扩展。"                              
             }
         ]
     }
