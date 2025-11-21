@@ -166,7 +166,19 @@
                 "name": "Gitee",
                 "icon": "https://gitee.com/favicon.ico",
                 "url": "https://gitee.com/",
-                "describe": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。"           
+                "describe": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 1350万的开发者选择 Gitee。"
+            },
+            {
+                "name": "Java",
+                "icon": "https://www.java.com/favicon.ico",
+                "url": "https://www.java.com/",
+                "describe": "Java Oracle Java 是第一大编程语言和开发平台。 它有助于企业降低成本、缩短开发周期、推动创新以及改善应用程序服务。 Java 现在仍是企业和开发人员的首选开发平台。"
+            },
+            {
+                "name": "Python",
+                "icon": "https://Python.com/favicon.ico",
+                "url": "https://www.python.com/",
+                "describe": "Python 是一种功能强大且易于学习的语言，可帮助您快速工作并更有效地集成系统。下载最新版本，阅读……"           
             }
         ]
     }
