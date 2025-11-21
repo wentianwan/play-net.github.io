@@ -145,6 +145,24 @@
                 "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"
             },
             {
+                "name": "Minecraft",
+                "icon": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico",
+                "url": "https://www.minecraft.net",
+                "describe": "在 Minecraft 官方网站上探索新的游戏冒险、配件和商品。在此处购买并下载游戏，或查看网站以获取最新消息。"                              
+            },
+            {
+                "name": "PCL II",
+                "icon": "https://pcl2.aoe.top/favicon.ico",
+                "url": "https://pcl2.aoe.top/",
+                "describe": "PCL2（Plain Craft Launcher 2）是由龙腾猫跃开发的免费开源 Minecraft 启动器。支持 Forge、Fabric、模组管理、自动下载、自定义主题等功能。立即下载体验最好用的我 …"                              
+            },
+            {
+                "name": "PCL 社区版",
+                "icon": "https://pclce-web.demo.fis.ink/favicon.ico",
+                "url": "https://pclce-web.demo.fis.ink/",
+                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                              
+            },
+            {
                 "name": "Google",
                 "icon": "https://www.google.com/favicon.ico",
                 "url": "https://www.google.com/",
@@ -197,18 +215,6 @@
                 "icon": "https://www.csdn.net/favicon.ico",
                 "url": "https://www.csdn.net/",
                 "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."                              
-            },
-            {
-                "name": "PCL II",
-                "icon": "https://pcl2.aoe.top/favicon.ico",
-                "url": "https://pcl2.aoe.top/",
-                "describe": "PCL2（Plain Craft Launcher 2）是由龙腾猫跃开发的免费开源 Minecraft 启动器。支持 Forge、Fabric、模组管理、自动下载、自定义主题等功能。立即下载体验最好用的我 …"                              
-            },
-            {
-                "name": "PCL 社区版",
-                "icon": "https://pclce-web.demo.fis.ink/favicon.ico",
-                "url": "https://pclce-web.demo.fis.ink/",
-                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                              
             }
         ]
     }
