@@ -145,68 +145,8 @@
                 "describe": "聚名网-到期域名查询抢注-域名注册-老域名买卖交易平台"
             },
             {
-                "name": "稀土掘金中国",
-                "icon": "./assets/siteIcons/juejin.png",
-                "url": "https://juejin.cn/",
-                "describe": "掘金是面向全球中文开发者的技术内容分享与交流平台。 我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激发创新的环境。"
-            },
-            {
-                "name": "中国大学MOOC",
-                "icon": "./assets/siteIcons/icourse163.png",
-                "url": "https://www.icourse163.org/",
-                "describe": "中国大学MOOC_优质在线课程学习平台"
-            },
-            {
-                "name": "程序员客栈",
-                "icon": "./assets/siteIcons/proginn.png",
-                "url": "https://www.proginn.com/",
-                "describe": "程序员客栈提供兼职程序员、程序员接私活、开发外包，程序员客栈是最大的程序员兼职平台，优质的程序员兼职网站，这里有 BAT 级兼职程序员。"
-            },
-            {
-                "name": "雷锋网",
-                "icon": "./assets/siteIcons/leiphone.png",
-                "url": "https://www.leiphone.com/",
-                "describe": "人工智能和智能硬件领域的互联网科技媒体"
-            },
-            {
-                "name": "36kr",
-                "icon": "./assets/siteIcons/36kr.png",
-                "url": "http://36kr.com/",
-                "describe": "创业资讯、科技新闻"
-            },
-            {
-                "name": "中国新闻网",
-                "icon": "./assets/siteIcons/chinanews.png",
-                "url": "https://www.chinanews.com.cn/",
-                "describe": "中国新闻网是中国最大的新闻门户网站，提供时政、理论、财经、国际、社会、大湾区、华人、文娱、体育、教育、法治、健康、生活等各类新闻。"
-            },
-            {
-                "name": "Steam",
-                "icon": "./assets/siteIcons/steam.png",
-                "url": "https://store.steampowered.com/",
-                "describe": "您可以在下方看到多款您可能感兴趣的产品。Steam是游戏、讨论和创造游戏的最终目的地。"
-            },
-            {
-                "name": "Microsoft",
-                "icon": "./assets/siteIcons/microsoft.png",
-                "url": "https://www.microsoft.com/",
-                "describe": "Microsoft——AI、云、生产力、计算、游戏和应用"
-            },
-            {
-                "name": "人民网",
-                "icon": "./assets/siteIcons/wap-people.png",
-                "url": "https://www.people.com.cn/",
-                "describe": "人民网，是世界十大报纸之一《人民日报》建设的以新闻为主的大型网上信息发布平台，也是互联网上最大的中文和多语种新闻网站。"
-            },
-            {
-                "name": "央视网",
-                "icon": "./assets/siteIcons/CCTV.png",
-                "url": "https://www.CCTV.com/",
-                "describe": "CCTV节目官网是中央电视台电视节目官方呈现平台，提供央视24个频道的直播、点播、节目预告等服务，集纳央视所有栏目、电影、电视 …"               
-            },
-            {
                 "name": "Minecraft",
-                "icon": "./assets/siteIcons/minecraft.png",
+                "icon": "https://www.minecraft.net/favicon.ico",
                 "url": "https://www.minecraft.net/",
                 "describe": "在 Minecraft 官方网站上探索新的游戏冒险、配件和商品。 在此处购买并下载游戏，或查看网站以获取最新消息。"
             },
@@ -220,13 +160,25 @@
                 "name": "PCL 社区版",
                 "icon": "https://pclce-web.demo.fis.ink/favicon.ico",
                 "url": "https://pclce-web.demo.fis.ink/",
-                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                              
+                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                  
+            },
+            {
+                "name": "黑客网站大全",
+                "icon": "./assets/icon.ico",
+                "url": "https://web-api.wentianplay.net",
+                "describe": "黑客网站大全"
             },
             {
                 "name": "Google",
                 "icon": "https://www.google.com/favicon.ico",
                 "url": "https://www.google.com/",
                 "describe": "全球最大的学习分享平台"
+            },
+            {
+                "name": "Microsoft",
+                "icon": "https://www.microsoft.com/favicon.ico",
+                "url": "https://www.microsoft.com/",
+                "describe": "Microsoft——AI、云、生产力、计算、游戏和应用"
             },
             {
                 "name": "Github",
@@ -269,18 +221,67 @@
                 "icon": "https://www.jetbrains.com/favicon.ico",
                 "url": "https://www.jetbrains.com/",
                 "describe": "专为 Web、数据和 AI/ML 专业人士打造。 通过 AI 增强的 IDE 体验进行超级加速。" 
-            },
-            {
-                "name": "黑客网站大全",
-                "icon": "./assets/icon.ico",
-                "url": "https://web-api.wentianplay.net",
-                "describe": "黑客网站大全"
+
             },
             {
                 "name": "CSDN",
                 "icon": "https://www.csdn.net/favicon.ico",
                 "url": "https://www.csdn.net/",
-                "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."                              
+                "describe": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区..."            
+            },
+            {
+                "name": "稀土掘金中国",
+                "icon": "https://juejin.cn/favicon.ico",
+                "url": "https://juejin.cn/",
+                "describe": "掘金是面向全球中文开发者的技术内容分享与交流平台。 我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激发创新的环境。"
+            },
+            {
+                "name": "中国大学MOOC",
+                "icon": "https://www.icourse163.org/favicon.ico",
+                "url": "https://www.icourse163.org/",
+                "describe": "中国大学MOOC_优质在线课程学习平台"
+            },
+            {
+                "name": "程序员客栈",
+                "icon": "https://www.proginn.com/favicon.ico",
+                "url": "https://www.proginn.com/",
+                "describe": "程序员客栈提供兼职程序员、程序员接私活、开发外包，程序员客栈是最大的程序员兼职平台，优质的程序员兼职网站，这里有 BAT 级兼职程序员。"
+            },
+            {
+                "name": "雷锋网",
+                "icon": "https://www.leiphone.com/favicon.ico",
+                "url": "https://www.leiphone.com/",
+                "describe": "人工智能和智能硬件领域的互联网科技媒体"
+            },
+            {
+                "name": "36kr",
+                "icon": "http://36kr.com/favicon.ico",
+                "url": "http://36kr.com/",
+                "describe": "创业资讯、科技新闻"
+            },
+            {
+                "name": "中国新闻网",
+                "icon": "https://www.chinanews.com.cn/favicon.ico",
+                "url": "https://www.chinanews.com.cn/",
+                "describe": "中国新闻网是中国最大的新闻门户网站，提供时政、理论、财经、国际、社会、大湾区、华人、文娱、体育、教育、法治、健康、生活等各类新闻。"
+            },
+            {
+                "name": "Steam",
+                "icon": "https://store.steampowered.com/favicon.ico",
+                "url": "https://store.steampowered.com/",
+                "describe": "您可以在下方看到多款您可能感兴趣的产品。Steam是游戏、讨论和创造游戏的最终目的地。"
+            },
+            {
+                "name": "人民网",
+                "icon": "https://www.people.com.cn/favicon.ico",
+                "url": "https://www.people.com.cn/",
+                "describe": "人民网，是世界十大报纸之一《人民日报》建设的以新闻为主的大型网上信息发布平台，也是互联网上最大的中文和多语种新闻网站。"
+            },
+            {
+                "name": "央视网",
+                "icon": "https://www.CCTV.com/favicon.ico",
+                "url": "https://www.CCTV.com/",
+                "describe": "CCTV节目官网是中央电视台电视节目官方呈现平台，提供央视24个频道的直播、点播、节目预告等服务，集纳央视所有栏目、电影、电视 …"               
             }
         ]
     }
