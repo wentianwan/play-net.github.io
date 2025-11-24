@@ -163,6 +163,12 @@
                 "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                  
             },
             {
+                "name": "Steam",
+                "icon": "https://store.steampowered.com/favicon.ico",
+                "url": "https://store.steampowered.com/",
+                "describe": "您可以在下方看到多款您可能感兴趣的产品。Steam是游戏、讨论和创造游戏的最终目的地。"
+            },
+            {
                 "name": "黑客网站大全",
                 "icon": "./assets/icon.ico",
                 "url": "https://web-api.wentianplay.net",
@@ -266,15 +272,9 @@
                 "describe": "中国新闻网是中国最大的新闻门户网站，提供时政、理论、财经、国际、社会、大湾区、华人、文娱、体育、教育、法治、健康、生活等各类新闻。"
             },
             {
-                "name": "Steam",
-                "icon": "https://store.steampowered.com/favicon.ico",
-                "url": "https://store.steampowered.com/",
-                "describe": "您可以在下方看到多款您可能感兴趣的产品。Steam是游戏、讨论和创造游戏的最终目的地。"
-            },
-            {
                 "name": "人民网",
-                "icon": "https://www.people.com.cn/favicon.ico",
-                "url": "https://www.people.com.cn/",
+                "icon": "http://www.people.com.cn/favicon.ico",
+                "url": "http://www.people.com.cn/",
                 "describe": "人民网，是世界十大报纸之一《人民日报》建设的以新闻为主的大型网上信息发布平台，也是互联网上最大的中文和多语种新闻网站。"
             },
             {
