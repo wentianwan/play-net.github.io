@@ -211,6 +211,12 @@
                 "describe": "专为 Web、数据和 AI/ML 专业人士打造。 通过 AI 增强的 IDE 体验进行超级加速。" 
             },
             {
+                "name": "黑客网站大全",
+                "icon": "./assets/icon.ico",
+                "url": "https://web-api.wentianplay.net",
+                "describe": "黑客网站大全"
+            },
+            {
                 "name": "CSDN",
                 "icon": "https://www.csdn.net/favicon.ico",
                 "url": "https://www.csdn.net/",
