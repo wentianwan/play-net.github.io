@@ -166,7 +166,7 @@
                 "name": "微信文件传输web",
                 "icon": "https://filehelper.weixin.qq.com/favicon.ico",
                 "url": "https://filehelper.weixin.qq.com/?from=windows&type=recommend",
-                "describe": 微信文件传输助手网页版"
+                "describe": "微信文件传输助手网页版"
             },
             {
                 "name": "Steam",
