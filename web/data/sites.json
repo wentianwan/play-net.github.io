@@ -160,7 +160,13 @@
                 "name": "PCL 社区版",
                 "icon": "https://pclce-web.demo.fis.ink/favicon.ico",
                 "url": "https://pclce-web.demo.fis.ink/",
-                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。"                  
+                "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。" 
+            },
+            {
+                "name": "微信文件传输web",
+                "icon": "https://filehelper.weixin.qq.com/favicon.ico",
+                "url": "https://filehelper.weixin.qq.com/?from=windows&type=recommend",
+                "describe": 微信文件传输助手网页版"
             },
             {
                 "name": "Steam",
