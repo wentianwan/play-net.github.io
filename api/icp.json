@@ -1,1 +1,18 @@
-天彬ICP备
+{
+  "example.com": {
+    "companyName": "示例科技有限公司",
+    "icpNumber": "天彬备20230001号",
+    "domainName": "example.com",
+    "approveDate": "2023-05-15",
+    "websiteName": "示例科技官网",
+    "status": "正常"
+  },
+  "testsite.cn": {
+    "companyName": "测试网络有限公司",
+    "icpNumber": "天彬备20230002号",
+    "domainName": "testsite.cn",
+    "approveDate": "2023-06-20",
+    "websiteName": "测试网站",
+    "status": "正常"
+  }
+}
