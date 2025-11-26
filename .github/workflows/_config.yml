@@ -1,0 +1,7 @@
+# 对于 Jekyll 站点的高级 CORS 配置
+plugins:
+  - jekyll-feed
+
+# 确保 JSON 文件不被处理
+include:
+  - "api/*.json"
