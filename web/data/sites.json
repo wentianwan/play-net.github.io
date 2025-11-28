@@ -175,10 +175,10 @@
                 "describe": "微信文件传输助手网页版"
             },
             {
-                "name": "余胜军IT教学网站",
-                "icon": "http://newstatic.mayikt.vip/favicon.ico",
+                "name": "蚂蚁课堂",
+                "icon": "http://www.wentianplay.com/index/API/assets/siteIcons/mayikt.png",
                 "url": "http://www.mayikt.com/",
-                "describe": "蚂蚁课堂专注于Java/Python课程：专注年轻人的IT在线教育平台，网站包含：java架构技术教程，微服务架构课程，高并发大流量专题，Redis缓存技术课程等。"
+                "describe": "余胜军IT教学网站蚂蚁课堂专注于Java/Python课程：专注年轻人的IT在线教育平台，网站包含：java架构技术教程，微服务架构课程，高并发大流量专题，Redis缓存技术课程等。"
             },
             {
                 "name": "黑客网站大全",
