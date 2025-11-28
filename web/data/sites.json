@@ -163,16 +163,22 @@
                 "describe": "PCL2社区版是一个开源免费的Minecraft启动器，支持分享mod、多账号切换和Java版本管理等功能。" 
             },
             {
+                "name": "Steam",
+                "icon": "https://store.steampowered.com/favicon.ico",
+                "url": "https://store.steampowered.com/",
+                "describe": "您可以在下方看到多款您可能感兴趣的产品。Steam是游戏、讨论和创造游戏的最终目的地。"
+            },
+            {
                 "name": "微信文件传输web",
                 "icon": "https://filehelper.weixin.qq.com/favicon.ico",
                 "url": "https://filehelper.weixin.qq.com/?from=windows&type=recommend",
                 "describe": "微信文件传输助手网页版"
             },
             {
-                "name": "Steam",
-                "icon": "https://store.steampowered.com/favicon.ico",
-                "url": "https://store.steampowered.com/",
-                "describe": "您可以在下方看到多款您可能感兴趣的产品。Steam是游戏、讨论和创造游戏的最终目的地。"
+                "name": "余胜军IT教学网站",
+                "icon": "http://newstatic.mayikt.vip/favicon.ico",
+                "url": "http://www.mayikt.com/",
+                "describe": "余胜军IT教学网站专注于Java/Python课程。"
             },
             {
                 "name": "黑客网站大全",
